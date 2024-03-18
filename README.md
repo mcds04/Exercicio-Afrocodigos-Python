@@ -1,5 +1,8 @@
 ![image](https://github.com/mcds04/Exercicio-Afrocodigos-Python/assets/100251166/5e4e75e9-91b5-4d82-b404-4d1cabf5b736)
 
+![image](https://github.com/mcds04/Exercicio-Afrocodigos-Python/assets/100251166/600960f3-40e1-469e-895f-851a40aad950)
+
+
 
 🚀 Exercicio-Afrocodigos-Python 🚀
 Exercicio PYTHON
